@@ -1,1 +1,1 @@
-This video is about making a demo full stack food ordering application using MongoDB, Express JS, React JS & Node JS. It is a comprehensive beginner friendly & advanced friendly tutorial
+Develop Web Application Responsive a demo full stack food ordering application using MongoDB, Express JS, React JS & Node JS. There are admin user can create product.
